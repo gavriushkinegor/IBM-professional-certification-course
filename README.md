@@ -1,2 +1,2 @@
-# IBM-professional-certification-course
+# IBM-professional-certification-course-in-Data-Science
 GitHub crash course
